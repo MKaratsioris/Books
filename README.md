@@ -7,6 +7,7 @@
 
 ## Data Structures and Algorithms
 [Grokking Algorithms - Aditya Y. Bhargava](./Data%20structures%20and%20Algorithms/Grokking%20Algorithms.pdf)
+[Grokking Data Structures - Marcello La Rocca](./Data%20structures%20and%20Algorithms/Grokking%20Data%20Structures.pdf)
 
 
 
